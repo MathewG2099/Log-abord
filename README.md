@@ -1,10 +1,10 @@
 # Log-abord
 
-#Description:
+# Description:
 
 The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
 
-#User Story
+# User Story
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
@@ -23,7 +23,7 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
-#Usage Instructions
+# Usage Instructions
 Open the cloned repository in any source code editor e.g. Visual Studio Code.
 Open integrated terminal on index.js
 Enter “node index.js” in the command line
