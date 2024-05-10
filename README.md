@@ -4,21 +4,6 @@
 
 The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
 
-# Table of Contents:
-Overview
-The Challenge
-Usage Information
-Installation Process
-Built With
-What I Learned
-Continued Development
-License
-Author
-Acknowledgments
-Overview
-#The Challenge:
-Build a Node.js command-line application that takes in user inputs to generates a SVG logo and saves it as "logo.svg" file. In addition, create a walkthrough video that demonstrates its functionality and the passing of all of the tests.
-
 #User Story
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
